@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>welcome_message</key>
+        <value>Descubre historias que vale la pena recomendar</value>
+    </entry>
+    <entry>
+        <key>home_title</key>
+        <value>Categorías</value>
+    </entry>
+    <entry>
+        <key>recommendations_enabled</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>

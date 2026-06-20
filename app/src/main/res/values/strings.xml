@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMDUMB</string>
+    <string name="environment_label">LOCAL</string>
+    <string name="splash_title">IMDUMB</string>
+    <string name="splash_loading">Preparando tus categorías…</string>
+    <string name="categories_title">Categorías</string>
+    <string name="loading_movies">Cargando películas…</string>
+    <string name="retry">Reintentar</string>
+    <string name="generic_error">No pudimos cargar las películas. Revisa tu conexión e inténtalo otra vez.</string>
+    <string name="empty_movies">No hay películas disponibles en este momento.</string>
+    <string name="rating_unavailable">Sin calificación</string>
+    <string name="rating_format">★ %1$.1f</string>
+    <string name="movie_poster_description">Póster de %1$s</string>
+    <string name="movie_image_description">Imagen de %1$s</string>
+    <string name="detail_title">Detalle</string>
+    <string name="summary_title">Resumen</string>
+    <string name="actors_title">Actores</string>
+    <string name="actors_empty">Reparto no disponible</string>
+    <string name="recommend">Recomendar</string>
+    <string name="recommend_sheet_title">Recomendar %1$s</string>
+    <string name="comment_hint">Escribe un comentario</string>
+    <string name="confirm_recommendation">Confirmar</string>
+    <string name="comment_required">Escribe un comentario antes de confirmar.</string>
+    <string name="recommendation_success">Recomendación enviada correctamente.</string>
+    <string name="page_format">%1$d / %2$d</string>
+    <string name="close">Cerrar</string>
+    <string name="back">Volver</string>
+    <string name="more_popular">Más populares</string>
+</resources>
