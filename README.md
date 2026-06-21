@@ -6,6 +6,16 @@ Aplicación Android en Kotlin para explorar categorías de películas y consulta
 
 La correspondencia requisito por requisito está en [`docs/REQUIREMENTS_CHECKLIST.md`](docs/REQUIREMENTS_CHECKLIST.md).
 
+## Demo
+
+<p align="center">
+  <img
+    src="docs/demo/imdumb-demo.gif"
+    width="360"
+    alt="Demostración del flujo principal de IMDUMB"
+  />
+</p>
+
 ## Flujo funcional
 
 1. `SplashActivity` solicita configuración a Firebase Remote Config.
