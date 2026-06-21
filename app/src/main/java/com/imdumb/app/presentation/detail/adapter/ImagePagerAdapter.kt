@@ -54,7 +54,7 @@ class ImagePagerAdapter(private val movieTitle: String) :
         }
 
         fun recycle() {
-            Glide.with(binding.image).clear(binding.image)
+            Glide.with(binding.image.context.applicationContext).clear(binding.image)
         }
     }
 

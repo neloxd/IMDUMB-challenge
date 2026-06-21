@@ -63,7 +63,7 @@ class MovieAdapter(private val onMovieClick: (Movie) -> Unit) :
 
         fun recycle() = with(binding) {
             root.setOnClickListener(null)
-            Glide.with(poster).clear(poster)
+            Glide.with(poster.context.applicationContext).clear(poster)
         }
     }
 
